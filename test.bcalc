@@ -1,0 +1,6 @@
+10 scan u; faktoriális program
+20 let a=1; 
+30 let i=i+1; 
+40 let a=a*i; 
+50 if i<u goto 30;
+60 print a;
